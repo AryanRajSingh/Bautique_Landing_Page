@@ -1,0 +1,116 @@
+.container-fluid{
+	display: flex;
+    justify-content: center;
+}
+.nav-link{
+
+}
+.btn{
+
+}
+.my_button{
+	display: flex;
+	justify-content: center;
+	margin-top: 92px;	
+	place-content: space-evenly;	
+}
+.container1{
+
+}
+.lady_img{
+	width: 22px;
+	height: 22px;
+}
+.introduction{
+	
+    margin-top: 70px;
+    margin-left: 82px;
+    margin-bottom: 81px;
+    font-size: larger;
+
+}
+.introduction p{
+	margin-top: 0;
+    margin-bottom: 1rem;
+    font-family: monospace;
+}
+.footer{
+	
+	left: 0;
+	bottom: 0;
+	background: yellow;
+	width: 100%;
+	color: black;
+	border: inset;
+	background: white;
+	
+}
+.button_link{
+	cursor: pointer;
+	transition: 0.5s;
+	margin-top: 22px;
+    margin-left: 25px;
+    word-spacing: 24px;
+    font-family: cursive;
+
+}
+.footer_icons{
+	font-size: 81px;
+    margin-left: 35px;
+    cursor: pointer;
+ }
+ .footer_searchbar{
+ 	margin-left: 34px;
+ 	margin-top: -16px;
+ }
+ .footer_searchbar p{
+ 	margin-left: 27px;
+    margin-bottom: 28px;
+    font-size: 27px;
+    font-family: cursive;
+
+ }
+ .nav-item{
+ 	margin-left: 0px;
+ }
+ .nav_i1{
+ 	margin-left: 294px;
+ }
+ .copyright{
+ text-align: center;
+}
+.submitdown{
+	color: white;
+    background-color: black;
+  }
+
+
+  body {
+    margin: 0;
+    font-family: var(--bs-font-sans-serif);
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #212529;
+    background-color: lightgrey;
+    -webkit-text-size-adjust: 100%;
+    -webkit-tap-highlight-color: transparent;
+}
+.bg-light {
+    background-color: white;
+}
+.lady_image{
+	margin-left: 258px;
+    margin-top: 72px;
+    margin-bottom: 81px;
+}
+.main_container{
+	display: flex;
+    margin-top: 50px;
+}
+.contact_navbar{
+	letter-spacing: 25px;
+    margin-right: 42px;
+    cursor: pointer;
+
+}
